@@ -8,3 +8,4 @@ Thanks to the flexibility of Python and the powerful ecosystem of packages, the 
 Thanks to the flexibility of Python and the powerful ecosystem of packages, the Azure CLI supports features such as autocompletion (in shells that support it), persistent credentials, JMESPath result parsing, lazy initialization, network-less unit tests, and more.
 Thanks to the flexibility of Python and the powerful ecosystem of packages, the Azure CLI supports features such as autocompletion (in shells that support it), persistent credentials, JMESPath result parsing, lazy initialization, network-less unit tests, and more.
 11111111111111111111111111111111111111111111111111111111111111111111
+Kristy!!!!!!!!!!!!!!!!!
